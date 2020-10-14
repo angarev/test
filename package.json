@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "@material-ui/core": "latest",
-    "@zeit/next-css": "^1.0.1",
     "clsx": "latest",
     "next": "latest",
     "prop-types": "latest",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-jsx-plugin-postcss": "^3.0.2"
   },
   "devDependencies": {
     "postcss-flexbugs-fixes": "4.2.1",
